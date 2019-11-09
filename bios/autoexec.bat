@@ -1,0 +1,1 @@
+Efiflash Z17NWIFI.20i

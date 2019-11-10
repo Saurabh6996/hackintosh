@@ -2,6 +2,8 @@
 
 My personal Hackintosh setup
 
+![Photo](https://i.imgur.com/xrmz21d.jpg)
+
 ## Hardware
 
 - **Case:** EVGA Hadron Air Mini-ITX Steel Black

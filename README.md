@@ -27,5 +27,6 @@ Format an empty USB drive to FAT32 and add the files from [bios](bios) on the ro
 
 ## Resources
 
-- https://hackintosh.gitbook.io/
-- https://www.reddit.com/r/hackintosh/
+- https://hackintosh.gitbook.io
+- https://reddit.com/r/hackintosh
+- https://youtu.be/fA9AotXqkqA
